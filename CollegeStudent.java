@@ -25,8 +25,8 @@ class CollegeStudent extends Student {
 
     public String toString() {
         return super.toString()+", year:"+this.year+", major: "+this.major;
-        // wtf, this is the file i was working on?
-        // what
+        
+        
 
     }
 }
